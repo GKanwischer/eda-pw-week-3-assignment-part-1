@@ -45,7 +45,6 @@ console.log( 'The last animal is', animalArray[3]);
 
 console.log( 'The last animal is', animalArray[ animalArray.length - 1 ]);
 
-
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
 
@@ -111,7 +110,6 @@ console.log( favoriteFood.reverse() );
 let foodString = favoriteFood[0] + " and " + favoriteFood[1] + " and " + favoriteFood[2] 
 + " and " + favoriteFood[3] + " and  " + favoriteFood[4] + "." ;
 console.log( "My favorite fods are", foodString );
-
 
 // 4.h (STRETCH) TODO: Make a new array that combines 
 //     the favorite foods array with the animals array.
